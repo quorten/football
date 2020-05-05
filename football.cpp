@@ -7,7 +7,7 @@
 
 using namespace std;
 
-void main()
+main()
 {
 	int numPlayerWon = 0;
 	int numComputerWon = 0;
